@@ -1,2 +1,3 @@
-# modern-analytics-dashboard-7jv5
+# Modern Analytics Dashboard 7Jv5
+
 A repository to test GitHub automation for issue management.
